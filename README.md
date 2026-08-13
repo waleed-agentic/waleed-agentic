@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=220&section=header&text=Waleed%20Ahmad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Agentic%20AI%20Developer%20(LangGraph%20%26%20CrewAI)&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=200&section=header&text=WALEED%20AHMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20Developer&descAlignY=55&descSize=17&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+Multi-Agent+Systems+with+CrewAI+%26+LangGraph;LLM+%2F+Agentic+AI+Engineer+in+the+making;Data+Science+%40+Riphah+International+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+with+CrewAI+%2B+LangGraph;Data+Science+Student" alt="Typing SVG" />
 </a>
 
 <br/>
