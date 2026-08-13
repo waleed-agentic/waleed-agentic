@@ -18,11 +18,6 @@
 [![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleed.ml.ds@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleed-agentic)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=waleed-agentic&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/waleed-agentic?style=for-the-badge&color=6A0DAD&labelColor=black)
-![Stars](https://img.shields.io/github/stars/waleed-agentic?style=for-the-badge&color=4B0082&labelColor=black)
 
 </div>
 
@@ -67,11 +62,11 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Multi-Agent Orchestration | Advanced | CrewAI sequential pipelines, LangGraph conditional routing |
-| LLM Integration | Advanced | Groq API (Llama 3.3 70B, gpt-oss-120b), LiteLLM |
-| Prompt Engineering | Advanced | Instruction design, role-based agent prompting |
+| Multi-Agent Orchestration | Intermediate | CrewAI sequential pipelines, LangGraph conditional routing |
+| LLM Integration | Intermediate | Groq API (Llama 3.3 70B, gpt-oss-120b), LiteLLM |
+| Prompt Engineering | Intermediate | Instruction design, role-based agent prompting |
 | Classical ML | Intermediate | XGBoost, SMOTE, imbalanced classification |
-| Deployment | Advanced | Streamlit + ngrok live demos on Colab |
+| Deployment | Intermediate | Streamlit + ngrok live demos on Colab |
 
 ---
 
