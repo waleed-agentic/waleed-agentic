@@ -32,7 +32,7 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 - Strong ML/DL foundation — Deep Learning Specialization, Generative AI with LLMs (DeepLearning.AI & AWS)
 - Ship-first mindset — every project deployed as a live, demo-able app, not just a notebook
 
-**Open To:** LLM Engineer / Agentic AI Engineer internships & remote roles (US-based companies welcome)
+**Open To:** LLM Engineer / Agentic AI Engineer internships & remote roles.
 
 ---
 
