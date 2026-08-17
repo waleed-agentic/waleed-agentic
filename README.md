@@ -67,11 +67,11 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Multi-Agent Orchestration | Advanced | CrewAI sequential pipelines, LangGraph conditional routing |
-| LLM Integration | Advanced | Groq API (Llama 3.3 70B, gpt-oss-120b), LiteLLM |
-| Prompt Engineering | Advanced | Instruction design, role-based agent prompting |
+| Multi-Agent Orchestration | Intermediate | CrewAI sequential pipelines, LangGraph conditional routing |
+| LLM Integration | Intermediate | Groq API (Llama 3.3 70B, gpt-oss-120b), LiteLLM |
+| Prompt Engineering | Intermediate | Instruction design, role-based agent prompting |
 | Classical ML | Intermediate | XGBoost, SMOTE, imbalanced classification |
-| Deployment | Advanced | Streamlit + ngrok live demos on Colab |
+| Deployment | Intermediate | Streamlit + ngrok live demos on Colab |
 
 ---
 
@@ -181,11 +181,6 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 
 </div>
 
-### GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=waleed-agentic&theme=algolia&no-frame=true&margin-w=8&column=7" />
-</div>
 
 ### Contribution Activity
 
@@ -193,17 +188,6 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=waleed-agentic&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" width="100%"/>
 </div>
 
-### Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waleed-agentic/waleed-agentic/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waleed-agentic/waleed-agentic/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/waleed-agentic/waleed-agentic/output/github-snake.svg"/>
-  </picture>
-</p>
-
----
 
 ### Current Focus
 
