@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=200&section=header&text=WALEED%20AHMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20Developer%20(n8n%2C%20LangGraph%20%26%20CrewAI)&descAlignY=55&descSize=15&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=200&section=header&text=WALEED%20AHMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20Developer&descAlignY=55&descSize=17&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+with+CrewAI+%2B+LangGraph;Automating+Agents+with+n8n;Data+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+with+CrewAI+%2B+LangGraph;Data+Science+Student" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Education](https://img.shields.io/badge/BSDS-Riphah_International_University-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-3.77-4B0082?style=for-the-badge&logo=academia&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Faisalabad,_Pakistan-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Faisalabad,_Pakistan-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -31,11 +30,10 @@
 
 ### About Me
 
-I'm a **Data Science undergraduate** (3rd Semester, Riphah International University, CGPA 3.77) specializing in **Agentic AI systems** — designing, orchestrating, and deploying multi-agent LLM applications with **CrewAI**, **LangGraph**, and **n8n**. My work focuses on production-style agent pipelines: sequential/conditional orchestration, real-time tool integration, workflow automation, and live deployment via Streamlit.
+I'm a **Data Science undergraduate** (3rd Semester, Riphah International University) specializing in **Agentic AI systems** — designing, orchestrating, and deploying multi-agent LLM applications with **CrewAI** and **LangGraph**. My work focuses on production-style agent pipelines: sequential/conditional orchestration, real-time tool integration, and live deployment via Streamlit.
 
 - Deep focus on **multi-agent orchestration** — sequential pipelines, conditional routing, tool-augmented agents
 - Hands-on with **Groq-hosted LLMs** (Llama 3.3 70B, gpt-oss-120b) for low-latency inference
-- Building **n8n workflow automations** for AI agents (webhooks, API integrations)
 - Strong ML/DL foundation — Deep Learning Specialization, Generative AI with LLMs (DeepLearning.AI & AWS)
 - Ship-first mindset — every project deployed as a live, demo-able app, not just a notebook
 
@@ -51,13 +49,8 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 **Agentic AI & LLM Orchestration**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-6A0DAD?style=flat-square&logo=robotframework&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph_(Beginner)-4B0082?style=flat-square&logo=graphql&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat-square&logo=graphql&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-
-**Automation & Workflow**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-6A0DAD?style=flat-square&logo=webhooks&logoColor=white)
-![API](https://img.shields.io/badge/API_Integration-4B0082?style=flat-square&logo=fastapi&logoColor=white)
 
 **ML / Data Science**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
@@ -76,7 +69,6 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 |---|:---:|---|
 | Multi-Agent Orchestration | Advanced | CrewAI sequential pipelines, LangGraph conditional routing |
 | LLM Integration | Advanced | Groq API (Llama 3.3 70B, gpt-oss-120b), LiteLLM |
-| Workflow Automation | Beginner | n8n AI agent workflows, webhooks, API integration |
 | Prompt Engineering | Advanced | Instruction design, role-based agent prompting |
 | Classical ML | Intermediate | XGBoost, SMOTE, imbalanced classification |
 | Deployment | Advanced | Streamlit + ngrok live demos on Colab |
@@ -172,13 +164,9 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 
 **Coursera / Simplilearn**
 
-![n8n](https://img.shields.io/badge/Build_AI_Agents_with_n8n-4B0082?style=flat-square&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/Build_AI_Agents_with_n8n-4B0082--In_Progress?style=flat-square&logo=n8n&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Intro_to_Data_Analytics-6A0DAD?style=flat-square&logo=simplilearn&logoColor=white)
 ![PyLibs](https://img.shields.io/badge/Python_Libraries_for_Data_Science-8A2BE2?style=flat-square&logo=python&logoColor=white)
-
-**Self-Study**
-
-![Book](https://img.shields.io/badge/Hands--On_ML_with_Scikit--Learn,_Keras_%26_TensorFlow_(Ch._1--9)-6A0DAD?style=flat-square&logo=bookstack&logoColor=white)
 
 ---
 
@@ -221,9 +209,9 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 
 ```yaml
 Learning:
-  - Advanced n8n workflow automation for AI agents
+  - n8n workflow automation for AI agents
 Building:
-  - Production-grade agentic AI portfolio (CrewAI + LangGraph + n8n)
+  - Production-grade agentic AI portfolio (CrewAI + LangGraph)
 Exploring:
   - Multi-agent evaluation & observability
 Open To:
