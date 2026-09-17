@@ -182,13 +182,6 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 </div>
 
 
-### Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waleed-agentic&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" width="100%"/>
-</div>
-
-
 ### Current Focus
 
 ```yaml
