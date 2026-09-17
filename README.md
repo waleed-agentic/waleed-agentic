@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=200&section=header&text=WALEED%20AHMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20Developer&descAlignY=55&descSize=17&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=200&section=header&text=WALEED%20AHMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20Developer%20(LangGraph%20%26%20CrewAI)&descAlignY=55&descSize=17&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+with+CrewAI+%2B+LangGraph;Data+Science+Student" alt="Typing SVG" />
@@ -30,14 +30,14 @@
 
 ### About Me
 
-I'm a **Data Science undergraduate** (3rd Semester, Riphah International University) specializing in **Agentic AI systems** — designing, orchestrating, and deploying multi-agent LLM applications with **CrewAI** and **LangGraph**. My work focuses on production-style agent pipelines: sequential/conditional orchestration, real-time tool integration, and live deployment via Streamlit.
+I'm a **Data Science undergraduate** (3rd Semester, CGPA 3.77, Riphah International University) specializing in **Agentic AI systems** — designing, orchestrating, and deploying multi-agent LLM applications with **CrewAI** and **LangGraph**. My work focuses on production-style agent pipelines: sequential/conditional orchestration, real-time tool integration, and live deployment via Streamlit.
 
 - Deep focus on **multi-agent orchestration** — sequential pipelines, conditional routing, tool-augmented agents
 - Hands-on with **Groq-hosted LLMs** (Llama 3.3 70B, gpt-oss-120b) for low-latency inference
 - Strong ML/DL foundation — Deep Learning Specialization, Generative AI with LLMs (DeepLearning.AI & AWS)
 - Ship-first mindset — every project deployed as a live, demo-able app, not just a notebook
 
-**Open To:** LLM Engineer / Agentic AI Engineer internships & remote roles (US-based companies welcome)
+**Seeking:** LLM Engineer / Agentic AI Engineer internship — remote or on-site
 
 ---
 
@@ -47,10 +47,10 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 ![Python](https://skillicons.dev/icons?i=python)
 
 **Agentic AI & LLM Orchestration**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-6A0DAD?style=flat-square&logo=robotframework&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat-square&logo=graphql&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Serper](https://img.shields.io/badge/Serper.dev-1C3C3C?style=flat-square&logo=googlesearchconsole&logoColor=white)
 
 **ML / Data Science**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
@@ -59,7 +59,6 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)
 
 ---
 
@@ -67,11 +66,11 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Multi-Agent Orchestration | Intermediate | CrewAI sequential pipelines, LangGraph conditional routing |
-| LLM Integration | Intermediate | Groq API (Llama 3.3 70B, gpt-oss-120b), LiteLLM |
+| Multi-Agent Orchestration | Intermediate | CrewAI sequential pipelines, LangGraph conditional/multi-node routing |
+| LLM Integration | Intermediate | Groq API (Llama 3.3 70B, gpt-oss-120b) |
 | Prompt Engineering | Intermediate | Instruction design, role-based agent prompting |
 | Classical ML | Intermediate | XGBoost, SMOTE, imbalanced classification |
-| Deployment | Intermediate | Streamlit + ngrok live demos on Colab |
+| Deployment | Intermediate | Streamlit apps on Colab, CSV/PDF upload interfaces |
 
 ---
 
@@ -81,11 +80,11 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 <summary><b>Research Assistant Agent (Multi-Agent)</b></summary>
 <br/>
 
-A 3-agent CrewAI system (Researcher -> Summarizer -> Citer) running a sequential pipeline with real-time web search via Serper.dev, powered by Groq's Llama 3.3 70B. Deployed as a public Streamlit app via ngrok.
+A 3-agent CrewAI system (Researcher → Summarizer → Citer) running a sequential pipeline with real-time web search via Serper.dev, powered by Groq's Llama 3.3 70B. Deployed as a public Streamlit app; resolved async event-loop and GPU compatibility issues in the Colab environment.
 
-| Stack | Scale | Performance | Deployment | Repository |
-|---|---|---|---|---|
-| CrewAI, Serper.dev, Groq | 3-Agent Pipeline | Real-time web search | Streamlit + ngrok | [Link](https://github.com/waleed-agentic/research-assistant-agent) |
+| Stack | Scale | Deployment | Repository |
+|---|---|---|---|
+| CrewAI, Serper.dev, Groq | 3-Agent Pipeline | Streamlit | [Link](https://github.com/waleed-agentic/research-assistant-agent) |
 
 </details>
 
@@ -95,9 +94,9 @@ A 3-agent CrewAI system (Researcher -> Summarizer -> Citer) running a sequential
 
 A 5-agent CrewAI system that analyzes resumes and job descriptions, identifies skill gaps, and generates tailored interview preparation content.
 
-| Stack | Scale | Performance | Deployment | Repository |
-|---|---|---|---|---|
-| CrewAI | 5-Agent System | Resume + JD parsing | Colab | [Link](https://github.com/waleed-agentic/ai-interview-prep-agent-crew) |
+| Stack | Scale | Deployment | Repository |
+|---|---|---|---|
+| CrewAI | 5-Agent System | Colab | [Link](https://github.com/waleed-agentic/ai-interview-prep-agent-crew) |
 
 </details>
 
@@ -107,9 +106,9 @@ A 5-agent CrewAI system that analyzes resumes and job descriptions, identifies s
 
 An AI agent that parses resumes and compares them against job descriptions to score fit and highlight matching/missing skills.
 
-| Stack | Scale | Performance | Deployment | Repository |
-|---|---|---|---|---|
-| CrewAI | Single-Agent | Skill-gap scoring | Colab | [Link](https://github.com/waleed-agentic/resume-job-matching-agent) |
+| Stack | Scale | Deployment | Repository |
+|---|---|---|---|
+| CrewAI | Single-Agent | Colab | [Link](https://github.com/waleed-agentic/resume-job-matching-agent) |
 
 </details>
 
@@ -119,21 +118,45 @@ An AI agent that parses resumes and compares them against job descriptions to sc
 
 A multi-agent system that repurposes blog content into platform-native social media posts, deployed as a live Streamlit app.
 
-| Stack | Scale | Performance | Deployment | Repository |
-|---|---|---|---|---|
-| CrewAI, Groq, Streamlit | Multi-Agent | Multi-platform output | Streamlit | [Link](https://github.com/waleed-agentic/ai-social-content-repurposer) |
+| Stack | Scale | Deployment | Repository |
+|---|---|---|---|
+| CrewAI, Groq, Streamlit | Multi-Agent | Streamlit | [Link](https://github.com/waleed-agentic/ai-social-content-repurposer) |
 
 </details>
 
 <details>
-<summary><b>Customer Support Multi-Agent System</b></summary>
+<summary><b>Customer Support Multi-Agent System (Multi-Node)</b></summary>
 <br/>
 
-A multi-agent support system with conditional routing logic to direct queries to the correct specialized agent, deployed via Streamlit and ngrok for live demo access.
+A multi-agent support system with conditional routing logic to direct queries to the correct specialized agent, deployed via Streamlit for live demo access.
 
-| Stack | Scale | Performance | Deployment | Repository |
-|---|---|---|---|---|
-| LangGraph | Conditional Routing | Query-based dispatch | Streamlit + ngrok | [Link](https://github.com/waleed-agentic/customer-support-multiagent-langgraph) |
+| Stack | Scale | Deployment | Repository |
+|---|---|---|---|
+| LangGraph | Conditional Routing | Streamlit | [Link](https://github.com/waleed-agentic/customer-support-multiagent-langgraph) |
+
+</details>
+
+<details>
+<summary><b>AI Code Review Agent (Multi-Node)</b></summary>
+<br/>
+
+A 4-node LangGraph agent (Scanner → Flagger → Fixer → Rechecker) that auto-detects and iteratively fixes bugs, security, and performance issues in code, deployed as a Streamlit app with PDF upload.
+
+| Stack | Scale | Deployment | Repository |
+|---|---|---|---|
+| LangGraph, Streamlit | 4-Node Graph | Streamlit (PDF upload) | [Link](https://github.com/waleed-agentic/ai-code-review-agent) |
+
+</details>
+
+<details>
+<summary><b>Personal Finance Agent (Multi-Node)</b></summary>
+<br/>
+
+A 3-node LangGraph agent (Categorize → Detect Pattern → Summarize) that categorizes expenses, flags overspending, and generates a spending-pattern summary, deployed as a Streamlit app with CSV upload and Plotly visualizations.
+
+| Stack | Scale | Deployment | Repository |
+|---|---|---|---|
+| LangGraph, Plotly, Streamlit | 3-Node Graph | Streamlit (CSV upload) | [Link](https://github.com/waleed-agentic/ai-personal-finance-agent) |
 
 </details>
 
@@ -143,9 +166,9 @@ A multi-agent support system with conditional routing logic to direct queries to
 
 A fraud detection model using XGBoost with SMOTE oversampling and threshold tuning to handle class imbalance.
 
-| Stack | Scale | Performance | Deployment | Repository |
-|---|---|---|---|---|
-| XGBoost, SMOTE | Binary Classification | Tuned for imbalance | Jupyter | [Link](https://github.com/waleed-agentic/credit-card-fraud-detection-xgboost) |
+| Stack | Scale | Deployment | Repository |
+|---|---|---|---|
+| XGBoost, SMOTE | Binary Classification | Jupyter | [Link](https://github.com/waleed-agentic/credit-card-fraud-detection-xgboost) |
 
 </details>
 
@@ -157,16 +180,20 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 
 ![IBM](https://img.shields.io/badge/Agentic_AI_with_LangGraph,_CrewAI,_AutoGen_%26_BeeAI-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-**DeepLearning.AI**
+**DeepLearning.AI / AWS**
 
 ![GenAI](https://img.shields.io/badge/Generative_AI_with_LLMs-8A2BE2?style=flat-square&logo=deeplearningdotai&logoColor=white)
-![DLS](https://img.shields.io/badge/Deep_Learning_Specialization-6A0DAD?style=flat-square&logo=deeplearningdotai&logoColor=white)
+![DLS](https://img.shields.io/badge/Deep_Learning_Specialization_(4_courses)-6A0DAD?style=flat-square&logo=deeplearningdotai&logoColor=white)
 
 **Coursera / Simplilearn**
 
-![n8n](https://img.shields.io/badge/Build_AI_Agents_with_n8n-4B0082--In_Progress?style=flat-square&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/Build_AI_Agents_with_n8n-4B0082?style=flat-square&logo=n8n&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Intro_to_Data_Analytics-6A0DAD?style=flat-square&logo=simplilearn&logoColor=white)
 ![PyLibs](https://img.shields.io/badge/Python_Libraries_for_Data_Science-8A2BE2?style=flat-square&logo=python&logoColor=white)
+
+**Self-Study**
+
+![HandsOnML](https://img.shields.io/badge/Hands--On_ML_w%2F_Scikit--Learn%2C_Keras_%26_TensorFlow_(Ch.1--9)-2B2B2B?style=flat-square&logo=bookstack&logoColor=white)
 
 ---
 
@@ -181,13 +208,11 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 
 </div>
 
-
 ### Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=waleed-agentic&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" width="100%"/>
 </div>
-
 
 ### Current Focus
 
@@ -199,7 +224,7 @@ Building:
 Exploring:
   - Multi-agent evaluation & observability
 Open To:
-  - LLM Engineer / Agentic AI Engineer roles (Remote, US-based companies)
+  - LLM Engineer / Agentic AI Engineer internships (Remote or On-site)
 ```
 
 ---
