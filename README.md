@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=200&section=header&text=WALEED%20AHMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20Developer&descAlignY=55&descSize=17&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=200&section=header&text=WALEED%20AHMAD&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20Engineer&descAlignY=55&descSize=17&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+with+CrewAI+%2B+LangGraph;Data+Science+Student" alt="Typing SVG" />
@@ -30,12 +30,12 @@
 
 ### About Me
 
-I'm a **Data Science undergraduate** (3rd Semester, Riphah International University) specializing in **Agentic AI systems** — designing, orchestrating, and deploying multi-agent LLM applications with **CrewAI** and **LangGraph**. My work focuses on production-style agent pipelines: sequential/conditional orchestration, real-time tool integration, and live deployment via Streamlit.
+I'm a **Data Science undergraduate** (3rd Semester, Riphah International University) specializing in **Agentic AI systems**: designing, orchestrating, and deploying multi-agent LLM applications with **CrewAI** and **LangGraph**. My work focuses on production-style agent pipelines: sequential/conditional orchestration, multi-node graph workflows, real-time tool integration, and live deployment via Streamlit.
 
-- Deep focus on **multi-agent orchestration** — sequential pipelines, conditional routing, tool-augmented agents
+- Deep focus on **multi-agent orchestration**: sequential pipelines, conditional routing, multi-node LangGraph agents, tool-augmented agents
 - Hands-on with **Groq-hosted LLMs** (Llama 3.3 70B, gpt-oss-120b) for low-latency inference
-- Strong ML/DL foundation — Deep Learning Specialization, Generative AI with LLMs (DeepLearning.AI & AWS)
-- Ship-first mindset — every project deployed as a live, demo-able app, not just a notebook
+- Strong ML/DL foundation: Deep Learning Specialization, Generative AI with LLMs (DeepLearning.AI & AWS), Databases and SQL (IBM)
+- Ship-first mindset: every project deployed as a live, demo-able app, not just a notebook
 
 **Open To:** LLM Engineer / Agentic AI Engineer internships & remote roles (US-based companies welcome)
 
@@ -43,8 +43,10 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 
 ### Tech Stack
 
-**Languages**
+**Languages & Data**
 ![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
 **Agentic AI & LLM Orchestration**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -52,14 +54,13 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat-square&logo=graphql&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 
-**ML / Data Science**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
+**ML**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
 
 **Deployment & Tools**
 ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)
 
 ---
 
@@ -67,11 +68,11 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Multi-Agent Orchestration | Intermediate | CrewAI sequential pipelines, LangGraph conditional routing |
+| Multi-Agent Orchestration | Intermediate | CrewAI sequential pipelines, LangGraph conditional routing & multi-node workflows |
 | LLM Integration | Intermediate | Groq API (Llama 3.3 70B, gpt-oss-120b), LiteLLM |
 | Prompt Engineering | Intermediate | Instruction design, role-based agent prompting |
 | Classical ML | Intermediate | XGBoost, SMOTE, imbalanced classification |
-| Deployment | Intermediate | Streamlit + ngrok live demos on Colab |
+| Deployment | Intermediate | Streamlit live demos on Colab |
 
 ---
 
@@ -81,11 +82,11 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 <summary><b>Research Assistant Agent (Multi-Agent)</b></summary>
 <br/>
 
-A 3-agent CrewAI system (Researcher -> Summarizer -> Citer) running a sequential pipeline with real-time web search via Serper.dev, powered by Groq's Llama 3.3 70B. Deployed as a public Streamlit app via ngrok.
+A 3-agent CrewAI system (Researcher -> Summarizer -> Citer) running a sequential pipeline with real-time web search via Serper.dev, powered by Groq's Llama 3.3 70B. Deployed as a public Streamlit app.
 
 | Stack | Scale | Performance | Deployment | Repository |
 |---|---|---|---|---|
-| CrewAI, Serper.dev, Groq | 3-Agent Pipeline | Real-time web search | Streamlit + ngrok | [Link](https://github.com/waleed-agentic/research-assistant-agent) |
+| CrewAI, Serper.dev, Groq | 3-Agent Pipeline | Real-time web search | Streamlit | [Link](https://github.com/waleed-agentic/research-assistant-agent) |
 
 </details>
 
@@ -126,14 +127,38 @@ A multi-agent system that repurposes blog content into platform-native social me
 </details>
 
 <details>
-<summary><b>Customer Support Multi-Agent System</b></summary>
+<summary><b>Customer Support Multi-Agent System (Multi-Node)</b></summary>
 <br/>
 
-A multi-agent support system with conditional routing logic to direct queries to the correct specialized agent, deployed via Streamlit and ngrok for live demo access.
+A multi-agent support system with conditional routing logic to direct queries to the correct specialized agent, deployed via Streamlit for live demo access.
 
 | Stack | Scale | Performance | Deployment | Repository |
 |---|---|---|---|---|
-| LangGraph | Conditional Routing | Query-based dispatch | Streamlit + ngrok | [Link](https://github.com/waleed-agentic/customer-support-multiagent-langgraph) |
+| LangGraph | Conditional Routing | Query-based dispatch | Streamlit | [Link](https://github.com/waleed-agentic/customer-support-multiagent-langgraph) |
+
+</details>
+
+<details>
+<summary><b>AI Code Review Agent (Multi-Node)</b></summary>
+<br/>
+
+A 4-node LangGraph agent (Scanner, Flagger, Fixer, Rechecker) that auto-detects and iteratively fixes bugs, security, and performance issues in code, deployed as a Streamlit app with PDF upload.
+
+| Stack | Scale | Performance | Deployment | Repository |
+|---|---|---|---|---|
+| LangGraph, Groq, Streamlit | 4-Node Agent | Iterative bug & security fixing | Streamlit | [Link](https://github.com/waleed-agentic/ai-code-review-agent) |
+
+</details>
+
+<details>
+<summary><b>Personal Finance Agent (Multi-Node)</b></summary>
+<br/>
+
+A 3-node LangGraph agent (Categorize, Detect Pattern, Summarize) that categorizes expenses, flags overspending, and generates a spending-pattern summary, deployed as a Streamlit app with CSV upload and Plotly visualizations.
+
+| Stack | Scale | Performance | Deployment | Repository |
+|---|---|---|---|---|
+| LangGraph, Groq, Streamlit, Plotly | 3-Node Agent | Expense categorization & overspending flags | Streamlit | [Link](https://github.com/waleed-agentic/ai-personal-finance-agent) |
 
 </details>
 
@@ -156,17 +181,21 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 **IBM**
 
 ![IBM](https://img.shields.io/badge/Agentic_AI_with_LangGraph,_CrewAI,_AutoGen_%26_BeeAI-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![IBM SQL](https://img.shields.io/badge/Databases_and_SQL_for_Data_Science_with_Python-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 **DeepLearning.AI**
 
 ![GenAI](https://img.shields.io/badge/Generative_AI_with_LLMs-8A2BE2?style=flat-square&logo=deeplearningdotai&logoColor=white)
 ![DLS](https://img.shields.io/badge/Deep_Learning_Specialization-6A0DAD?style=flat-square&logo=deeplearningdotai&logoColor=white)
 
-**Coursera / Simplilearn**
+**Simplilearn**
 
-![n8n](https://img.shields.io/badge/Build_AI_Agents_with_n8n-4B0082--In_Progress?style=flat-square&logo=n8n&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Intro_to_Data_Analytics-6A0DAD?style=flat-square&logo=simplilearn&logoColor=white)
 ![PyLibs](https://img.shields.io/badge/Python_Libraries_for_Data_Science-8A2BE2?style=flat-square&logo=python&logoColor=white)
+
+**Self-Study**
+
+![Hands-On ML](https://img.shields.io/badge/Hands--On_ML_with_Scikit--Learn,_Keras_%26_TensorFlow_(Ch._1--9)-4B0082?style=flat-square)
 
 ---
 
@@ -181,12 +210,11 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 
 </div>
 
-
 ### Current Focus
 
 ```yaml
 Learning:
-  - n8n workflow automation for AI agents
+  - Advanced LangGraph multi-node workflows
 Building:
   - Production-grade agentic AI portfolio (CrewAI + LangGraph)
 Exploring:
