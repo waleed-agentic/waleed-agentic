@@ -33,8 +33,8 @@
 I'm a **Data Science undergraduate** (3rd Semester, Riphah International University) specializing in **Agentic AI systems**: designing, orchestrating, and deploying multi-agent LLM applications with **CrewAI** and **LangGraph**. My work focuses on production-style agent pipelines: sequential/conditional orchestration, multi-node graph workflows, real-time tool integration, and live deployment via Streamlit.
 
 - Deep focus on **multi-agent orchestration**: sequential pipelines, conditional routing, multi-node LangGraph agents, tool-augmented agents
-- Hands-on with **Groq-hosted LLMs** (Llama 3.3 70B, gpt-oss-120b) for low-latency inference
-- Strong ML/DL foundation: Deep Learning Specialization, Generative AI with LLMs (DeepLearning.AI & AWS), Databases and SQL (IBM)
+- Hands-on with **Groq-hosted LLMs** for low-latency inference
+- Strong ML/DL foundation: Deep Learning Specialization, Generative AI with LLMs (DeepLearning.AI & AWS), Databases and SQL (IBM), Prompt Design (Google)
 - Ship-first mindset: every project deployed as a live, demo-able app, not just a notebook
 
 **Open To:** LLM Engineer / Agentic AI Engineer internships & remote roles (US-based companies welcome)
@@ -49,7 +49,6 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
 **Agentic AI & LLM Orchestration**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-6A0DAD?style=flat-square&logo=robotframework&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat-square&logo=graphql&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
@@ -69,7 +68,7 @@ I'm a **Data Science undergraduate** (3rd Semester, Riphah International Univers
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | Multi-Agent Orchestration | Intermediate | CrewAI sequential pipelines, LangGraph conditional routing & multi-node workflows |
-| LLM Integration | Intermediate | Groq API (Llama 3.3 70B, gpt-oss-120b), LiteLLM |
+| LLM Integration | Intermediate | Groq API |
 | Prompt Engineering | Intermediate | Instruction design, role-based agent prompting |
 | Classical ML | Intermediate | XGBoost, SMOTE, imbalanced classification |
 | Deployment | Intermediate | Streamlit live demos on Colab |
@@ -178,15 +177,19 @@ A fraud detection model using XGBoost with SMOTE oversampling and threshold tuni
 
 ### Certifications
 
-**IBM**
+**IBM (Coursera)**
 
 ![IBM](https://img.shields.io/badge/Agentic_AI_with_LangGraph,_CrewAI,_AutoGen_%26_BeeAI-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![IBM SQL](https://img.shields.io/badge/Databases_and_SQL_for_Data_Science_with_Python-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-**DeepLearning.AI**
+**DeepLearning.AI (Coursera)**
 
-![GenAI](https://img.shields.io/badge/Generative_AI_with_LLMs-8A2BE2?style=flat-square&logo=deeplearningdotai&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI_with_LLMs_(with_AWS)-8A2BE2?style=flat-square&logo=deeplearningdotai&logoColor=white)
 ![DLS](https://img.shields.io/badge/Deep_Learning_Specialization-6A0DAD?style=flat-square&logo=deeplearningdotai&logoColor=white)
+
+**Google (Coursera)**
+
+![Prompts](https://img.shields.io/badge/Start_Writing_Prompts_like_a_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Simplilearn**
 
