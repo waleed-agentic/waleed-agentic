@@ -15,8 +15,10 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-waleed-a73c.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-ds)
-[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleed.ml.ds@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio-waleed-a73c.vercel.app/#contact)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleed-agentic)
+
+waleed.ml.ds@gmail.com
 
 <br/>
 
