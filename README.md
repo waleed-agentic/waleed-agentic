@@ -230,7 +230,6 @@ Open To:
 
 ### Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](**Email:** waleed.ml.ds@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-ds)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleed-agentic)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-waleed-a73c.vercel.app/)
