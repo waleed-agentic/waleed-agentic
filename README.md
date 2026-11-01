@@ -18,8 +18,6 @@
 [![Contact](https://img.shields.io/badge/Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio-waleed-a73c.vercel.app/#contact)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleed-agentic)
 
-waleed.ml.ds@gmail.com
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waleed-agentic&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
